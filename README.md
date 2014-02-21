@@ -16,4 +16,4 @@ W niedzielę
 
 1. Porozmawiamy o GitHUb detescop
 2. Powtórzyć notację Markdown
-3. Koniecznie zjedz obiad
+3. Koniecznie zjedz obiad!
