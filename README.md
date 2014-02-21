@@ -1,6 +1,6 @@
 ## Pierwsze programy w C
 
-http://github.com - automatic!
+http://guides.github.com/overviews/mastering-markdown/
 
 ![](http://upload.wikimedia.org/wikipedia/commons/c/c6/Dennis_MacAlistair_Ritchie.jpg)
 
