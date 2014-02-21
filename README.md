@@ -1,4 +1,4 @@
-zeszyt
-======
+## Pierwsze programy w C
 
-technokompu
+Zwyczajowo (kto to wymyślił?) Zaczynamy od programu
+*hello world*
