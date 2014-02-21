@@ -3,7 +3,7 @@
 Zwyczajowo (kto to wymyślił?) Zaczynamy od programu
 *hello world*
 ```c
-#iclude <stdio.h>
+#include <stdio.h>
 int main ()
 {
 printf ("Hello world");
