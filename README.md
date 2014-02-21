@@ -1,0 +1,4 @@
+zeszyt
+======
+
+technokompu
