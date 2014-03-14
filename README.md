@@ -28,3 +28,6 @@ Użyteczne narzędzia:
 - sublimetext editor
 
 https://github.com/h5c3j/pspi
+
+
+ble ble
