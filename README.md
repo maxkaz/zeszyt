@@ -27,7 +27,7 @@ Użyteczne narzędzia:
 - secure shell;
 - sublimetext editor
 
-[Nasza strona] (https://github.com/h5c3j/pspi)
+![Nasza strona](https://github.com/h5c3j/pspi)
 
 
 ble ble
