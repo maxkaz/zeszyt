@@ -26,3 +26,5 @@ W niedzielę
 Użyteczne narzędzia:
 - secure shell;
 - sublimetext editor
+
+https://github.com/h5c3j/pspi
