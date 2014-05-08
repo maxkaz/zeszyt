@@ -30,4 +30,4 @@ Użyteczne narzędzia:
 [Link na naszą stronę](https://github.com/h5c3j/pspi)
 
 
-ble ble
+ble ble bgfghf
